@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SingleMasterDetailApp</string>
+
+    <string-array name="titles">
+        <item>John Smith</item>
+        <item>Jane Smith</item>
+        <item>Adam Smith</item>
+        <item>Mark Smith</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>John Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit sit amet erat aliquet interdum. </item>
+        <item> Jane Vivamus dapibus felis augue, in tincidunt dolor vestibulum non. Pellentesque egestas est non enim aliquam,</item>
+        <item> Adam Donec eu cursus magna. Duis elementum consectetur purus, nec sollicitudin velit semper a.</item>
+        <item>Mark Vestibulum facilisis viverra lectus. Praesent in lorem consectetur, adipiscing mauris sed, tincidunt justo. </item>
+    </string-array>
+
+</resources>
